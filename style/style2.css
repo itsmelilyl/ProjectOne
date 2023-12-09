@@ -1,0 +1,89 @@
+h2{
+    color: #CF3031;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 56px; /* 116.667% */
+    letter-spacing: 1.44px;
+}
+.colortext{
+    color: var(--Gray-1, #333);
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+}
+
+.container_hours{
+    padding-left: 50vh;
+    padding-right: 50vh;
+    padding-top: 30px;
+    padding-bottom: 45px;
+}
+
+
+.clock{
+    width: 14px;
+    height: 14px;
+    margin-right:20px;
+}
+
+p{
+    color: var(--Gray-1, #333);
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px; /* 157.143% */
+    letter-spacing: 0.84px;
+    
+}
+
+.number{
+    color: #CF3031;
+    text-align: right;
+    font-family: Roboto, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 22px;
+}
+
+.weekDays{
+    color: #CF3031;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 22px;
+}
+
+.forms{
+    text-align: center;
+    
+}
+
+input, textarea{
+    border-radius: 33px;
+    border: 1px solid #CF3031;
+    background: #FFF;
+    padding: 10px;
+    margin: 10px;
+}
+
+::placeholder{
+    color: var(--Gray-3, #828282);
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px; /
+}
+
+.buttontext{
+    font-size: 12px;
+}

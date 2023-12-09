@@ -1,0 +1,43 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+
+.main_inner {
+	display: grid;
+    text-align: start;
+    padding: 30px;
+    margin-top:100px;
+    margin: bottom 20px; ;
+}
+
+.item1 {
+    color: var(--Gray-1, #333);
+    font-family: Cabin Sketch;
+    font-size: 160.131px;
+    font-style: normal;
+    font-weight: 200px;
+    line-height: 80.5%; /* 128.905px */
+    letter-spacing: 4.804px;
+    width: 1111.031px;
+    height: 257px;
+}
+
+.item2 {
+    color: #CF3031;
+font-family: SF Pro Display;
+font-size: 96px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+padding: 30px;
+}
+
+.aside{
+    width: 664px;
+    height: 664px;
+    padding:20px;
+    text-align: center;
+}
