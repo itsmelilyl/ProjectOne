@@ -20,28 +20,12 @@ img{
     width: 664px;
     height: 664px;
     flex-shrink: 0;
-     
 }
 
 .tomato_pic{
     width: 170px;
     height: 135px;
-    margin-top: 10px;
     margin-bottom: 15px;
     margin-left: 400px;
 }
 
-button{
-
-}
-
-.buttontext{
-    font-size: 12px;
-}
-
-.chilli{
-    width: 176px;
-    height: 153px;
-    transform: rotate(-74.349deg);
-    flex-shrink: 0;
-}
